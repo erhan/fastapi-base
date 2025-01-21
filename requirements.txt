@@ -1,0 +1,12 @@
+alembic
+fastapi
+psycopg2-binary
+sqlalchemy
+passlib
+pytest
+pydantic
+pydantic-settings
+uuid_utils
+bcrypt
+uvicorn
+ruff
